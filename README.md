@@ -1,7 +1,7 @@
 
 # Projet BD 2025 – Gestion d'Hôtel
 
-Ce projet est une application web développée avec **Streamlit** et **SQLite**, dans le cadre du module **Bases de Données** (L2 MIP/IAP S4). Il permet de gérer les clients, les réservations et les chambres d’un hôtel.
+Ce projet est une application web développée avec **Streamlit** et **SQLite**, dans le cadre du module **Bases de Données** (IAP S4). Il permet de gérer les clients, les réservations et les chambres d’un hôtel.
 
 ---
 
